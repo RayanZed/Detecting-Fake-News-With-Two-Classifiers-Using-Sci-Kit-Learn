@@ -1,9 +1,11 @@
 # Detection of Fake News
-![Fake_real-1_gebpwg](https://github.com/RayanZed/Detecting-Fake-News-With-Two-Classifiers-Using-Sci-Kit-Learn/assets/164723270/83f1119c-7f82-455a-83a2-58bbe4959384)
 
 ## Overview
 
 ### *This project utilizes advanced machine learning algorithms to effectively classify fake news articles by leveraging the powerful Sci-Kit libraries available in Python. By employing a combination of natural language processing techniques and sophisticated algorithms, we aim to develop a robust model capable of accurately distinguishing between genuine and fabricated news content.*
+
+![Fake_real-1_gebpwg](https://github.com/RayanZed/Detecting-Fake-News-With-Two-Classifiers-Using-Sci-Kit-Learn/assets/164723270/a7422a63-3808-46ee-9832-8b82c28727d7)
+
 
 #### Dataset
 
