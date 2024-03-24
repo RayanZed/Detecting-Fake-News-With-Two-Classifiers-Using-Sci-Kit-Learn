@@ -1,4 +1,5 @@
 # Detection of Fake News
+![Fake_real-1_gebpwg](https://github.com/RayanZed/Detecting-Fake-News-With-Two-Classifiers-Using-Sci-Kit-Learn/assets/164723270/83f1119c-7f82-455a-83a2-58bbe4959384)
 
 ## Overview
 
